@@ -1,0 +1,25 @@
+// Perform matrix multiplication multiple times for benchmarking
+qor("Performing matrix multiplication 100 times:")
+door iterations = 100
+door startTime = time()
+
+ku_celi i min 1 ilaa iterations {
+    door result = multiplyMatrices(matrix1, matrix2)
+    
+    // Only output the first result to avoid flooding the console
+    haddii (i == 1) {
+        qor("Result of first multiplication:")
+        ku_celi r min 0 ilaa result.length() - 1 {
+            qor(qoraal(result[r]))
+        }
+    }
+}
+
+door endTime = time()
+door duration = endTime - startTime
+qor("Matrix multiplication completed in " + qoraal(duration) + " seconds")
+qor("") // Empty line
+
+qor("===== END OF COMPUTATION BENCHMARK =====")
+
+...
