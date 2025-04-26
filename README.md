@@ -1,40 +1,63 @@
-📄 README
-Waa Maxay SopLang?
-SopLang waa luuqad barnaamij cusub oo loogu talagalay in ay fududeyso qorista algorithms-ka si sahlan oo akhris wanaagsan leh, iyadoo aad ugu dhowaaneysa Af-Soomaaliga.
-Waxay ku salaysan tahay fikrado fudud sida: door, haddii, ku_celi, iyo qor, si barnaamijyada loo fahmo si degdeg ah.
+<h1 align="center">👩‍💻 SopLang - Luqadda Algorithms-ka Fudud</h1>
 
-Maxay Shaqo Qabataa?
-Code-kan wuxuu sameeyaa isku dhufasho Matrix oo dhan 100 jeer, si loo cabbiro sida ay u degdeg badan tahay SopLang marka la eego waxqabadka.
-Wuxuu tijaabiyaa waxtarka iyo xawaaraha luuqadda iyadoo la adeegsanayo hawl culus oo xisaabeed.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-SopLang-blueviolet?style=for-the-badge" alt="SopLang Badge"/>
+  <img src="https://img.shields.io/badge/Made%20by-Istarliin-green?style=for-the-badge" alt="Made by Istarliin"/>
+  <img src="https://img.shields.io/badge/Matrix%20Benchmark-100x-orange?style=for-the-badge" alt="Matrix Benchmark"/>
+</p>
 
-Faa'idooyinka SopLang:
-✅ Wax fudud oo lagu barto.
+---
 
-✅ Luqad aad ugu dhow Af-Soomaaliga.
+## 📚 Waa Maxay SopLang?
 
-✅ Ku habboon waxbarashada algorithm-yada.
+**SopLang** waa luuqad barnaamij cusub oo loogu talagalay in ay fududeyso qorista algorithms-ka si sahlan oo akhris wanaagsan leh, iyadoo aad ugu dhowaaneysa Af-Soomaaliga.
 
-✅ Xawli fiican marka la eego hawlaha xisaabeed.
+> Fikradaha fudud ee SopLang:  
+> `door`, `haddii`, `ku_celi`, `qor`
 
-✅ Console Output nadiif ah.
+---
 
-Tusaalaha: Isku dhufashada Matrix
-Code-kan wuxuu soo saarayaa natiijada isku dhufashada laba matrix (xisaab adag).
-Tusaale:
+## ⚙️ Maxay Shaqo Qabataa?
 
-Marka laba matrix la isku dhufto, waxaan helnaa matrix cusub oo ka turjumaya isku darka qiyamka labadii hore.
+✅ Wuxuu sameeyaa **isku dhufasho Matrix** oo dhan **100 jeer**, si loo cabbiro waxqabadka.  
+✅ Wuxuu qiimeeyaa xawaaraha iyo waxtarka luuqadda SopLang.
 
-Wuxuu ku socdaa wareegyo (loops) dhan 100 jeer si loo qiimeeyo sida SopLang ugu degdeg badan yahay habka xisaabta.
+---
 
-Talaabooyinka:
+## 🌟 Faa'idooyinka SopLang:
 
-Wuxuu bilaabayaa waqtiga (startTime).
+- 🔹 Wax fudud oo lagu barto.
+- 🔹 Luqad aad ugu dhow Af-Soomaaliga.
+- 🔹 Ku habboon waxbarashada algorithm-yada.
+- 🔹 Xawaare sare marka la eego hawlaha xisaabeed.
+- 🔹 Console Output nadiif ah oo la fahmi karo.
 
-Wuxuu marar badan ku celinayaa isku dhufashada (multiplyMatrices).
+---
 
-Wuxuu cabbirayaa waqtiga la isticmaalay (duration).
+## 🧮 Tusaalaha: Isku Dhufashada Matrix
 
-Wuxuu muujinayaa natiijada isku dhufashada iyo waqtiga la qaatay.
+**Tusaale Codsi:**  
+> Labo matrix oo la isku dhufto waxay soo saaraan matrix cusub oo ka tarjumaya isku darka qiyamka labadii hore.
 
-🎨 Made in Istarliin
-![alt text](<WhatsApp Image 2025-04-12 at 09.59.09_f0cf40c0.jpg>)
+---
+
+### 🛠️ Talaabooyinka Hawsha:
+
+1. Bilaabid waqtiga (`startTime`).
+2. Ku celcelin isku dhufashada (`multiplyMatrices`) 100 jeer.
+3. Xisaabin waqtiga la isticmaalay (`duration`).
+4. Soo bandhigid natiijada isku dhufashada iyo waqtiga.
+
+---
+
+# 🎨 Made in Istarliin
+
+<p align="center">
+  <img src="./images/istarliin.png" alt="Made in Istarliin" width="250px" style="border-radius: 20px;"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💖 Horumarinta Luqaddaada, Mustaqbalkaaga!</b>
+</p>
