@@ -53,7 +53,7 @@
 # 🎨 Made in Istarliin
 
 <p align="center">
-  <img src="./images/istarliin.png" alt="Made in Istarliin" width="250px" style="border-radius: 20px;"/>
+  <img src="./images/starliin.jpg" alt="Made in Istarliin" width="250px" style="border-radius: 20px;"/>
 </p>
 
 ---
